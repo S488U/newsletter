@@ -1,0 +1,96 @@
+[2024-06-05 20:50:09] [Sent] arshad.fetlla@gmail.com: Email sent successfully
+[2024-06-05 20:50:16] [Sent] bijoy.fetlla@gmail.com: Email sent successfully
+[2024-06-05 20:50:22] [Sent] duploader.tech@gmail.com: Email sent successfully
+[2024-06-05 20:50:23] [Invalid] Email: Invalid email address format
+[2024-06-05 20:50:29] [Sent] farish.fetlla@gmail.com: Email sent successfully
+[2024-06-05 20:50:36] [Sent] fetllaofficial@gmail.com: Email sent successfully
+[2024-06-05 20:50:42] [Sent] hashiqhashi1234@gmail.com: Email sent successfully
+[2024-06-05 20:50:49] [Sent] laphotography987@gmail.com: Email sent successfully
+[2024-06-05 20:50:55] [Sent] learn.fetlla@gmail.com: Email sent successfully
+[2024-06-05 20:51:02] [Sent] manage@duploader.tech: Email sent successfully
+[2024-06-05 20:51:08] [Sent] mohdhashiq10@gmail.com: Email sent successfully
+[2024-06-05 20:51:15] [Sent] owaisk30383@gmail.com: Email sent successfully
+[2024-06-05 20:51:21] [Sent] saniysani534@gmail.com: Email sent successfully
+[2024-06-05 20:51:28] [Sent] shahabas.fetlla@gmail.com: Email sent successfully
+[2024-06-05 20:51:34] [Sent] shahabassabbu12@gmail.com: Email sent successfully
+[2024-06-05 20:51:41] [Sent] shahabassabbu12@outlook.com: Email sent successfully
+[2024-06-05 20:51:48] [Sent] studenattsrinivas@gmail.com: Email sent successfully
+[2024-06-05 20:51:54] [Sent] thahirahameed313@gmail.com: Email sent successfully
+[2024-06-05 20:52:01] [Sent] vishnu.fetlla@gmail.com: Email sent successfully
+[2024-06-05 09:28:17 PM] [Sent] arshad.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:28:22 PM] [Sent] bijoy.fetlla@gmail.com                  : Email sent successfully
+[2024-06-05 09:28:28 PM] [Sent] duploader.tech@gmail.com                : Email sent successfully
+[2024-06-05 09:28:28 PM] [Invalid] Email                                   : Invalid email address format
+[2024-06-05 09:28:34 PM] [Sent] farish.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:28:39 PM] [Sent] fetllaofficial@gmail.com                : Email sent successfully
+[2024-06-05 09:28:46 PM] [Sent] hashiqhashi1234@gmail.com               : Email sent successfully
+[2024-06-05 09:28:51 PM] [Sent] ichux044@gmail.com                      : Email sent successfully
+[2024-06-05 09:28:57 PM] [Sent] laphotography987@gmail.com              : Email sent successfully
+[2024-06-05 09:29:03 PM] [Sent] learn.fetlla@gmail.com                  : Email sent successfully
+[2024-06-05 09:29:09 PM] [Sent] manage@duploader.tech                   : Email sent successfully
+[2024-06-05 09:29:15 PM] [Sent] mohammedowais8137@gmail.com             : Email sent successfully
+[2024-06-05 09:29:21 PM] [Sent] mohdhashiq10@gmail.com                  : Email sent successfully
+[2024-06-05 09:29:26 PM] [Sent] ok613348@gmail.com                      : Email sent successfully
+[2024-06-05 09:29:32 PM] [Sent] owaisk30383@gmail.com                   : Email sent successfully
+[2024-06-05 09:29:37 PM] [Sent] saniyasani534@gmail.com                 : Email sent successfully
+[2024-06-05 09:29:43 PM] [Sent] shahabas.fetlla@gmail.com               : Email sent successfully
+[2024-06-05 09:29:48 PM] [Sent] shahabassabbu12@gmail.com               : Email sent successfully
+[2024-06-05 09:29:54 PM] [Sent] shahabassabbu12@outlook.com             : Email sent successfully
+[2024-06-05 09:29:59 PM] [Sent] sherinsulthana05@gmail.com              : Email sent successfully
+[2024-06-05 09:30:04 PM] [Sent] studenattsrinivas@gmail.com             : Email sent successfully
+[2024-06-05 09:30:11 PM] [Sent] sulu.ichu12@gmail.com                   : Email sent successfully
+[2024-06-05 09:30:16 PM] [Sent] thahirahameed313@gmail.com              : Email sent successfully
+[2024-06-05 09:30:22 PM] [Sent] ubbix.trade@gmail.com                   : Email sent successfully
+[2024-06-05 09:30:27 PM] [Sent] unimatter13@gmail.com                   : Email sent successfully
+[2024-06-05 09:30:33 PM] [Sent] unnikutten082@gmail.com                 : Email sent successfully
+[2024-06-05 09:30:38 PM] [Sent] unounhidden13@gmail.com                 : Email sent successfully
+[2024-06-05 09:30:44 PM] [Sent] vishnu.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:30:49 PM] [Sent] zodiachackersyt5@gmail.com              : Email sent successfully
+[2024-06-05 09:42:21 PM] [Sent] arshad.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:42:27 PM] [Sent] bijoy.fetlla@gmail.com                  : Email sent successfully
+[2024-06-05 09:42:33 PM] [Sent] duploader.tech@gmail.com                : Email sent successfully
+[2024-06-05 09:42:33 PM] [Invalid] Email                                   : Invalid email address format
+[2024-06-05 09:42:39 PM] [Sent] farish.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:42:45 PM] [Sent] fetllaofficial@gmail.com                : Email sent successfully
+[2024-06-05 09:42:51 PM] [Sent] hashiqhashi1234@gmail.com               : Email sent successfully
+[2024-06-05 09:42:56 PM] [Sent] ichux044@gmail.com                      : Email sent successfully
+[2024-06-05 09:43:02 PM] [Sent] laphotography987@gmail.com              : Email sent successfully
+[2024-06-05 09:43:07 PM] [Sent] learn.fetlla@gmail.com                  : Email sent successfully
+[2024-06-05 09:43:12 PM] [Sent] manage@duploader.tech                   : Email sent successfully
+[2024-06-05 09:43:19 PM] [Sent] mohammedowais8137@gmail.com             : Email sent successfully
+[2024-06-05 09:43:25 PM] [Sent] mohdhashiq10@gmail.com                  : Email sent successfully
+[2024-06-05 09:43:30 PM] [Sent] ok613348@gmail.com                      : Email sent successfully
+[2024-06-05 09:43:36 PM] [Sent] owaisk30383@gmail.com                   : Email sent successfully
+[2024-06-05 09:43:41 PM] [Sent] saniyasani534@gmail.com                 : Email sent successfully
+[2024-06-05 09:43:47 PM] [Sent] shahabas.fetlla@gmail.com               : Email sent successfully
+[2024-06-05 09:43:52 PM] [Sent] shahabassabbu12@gmail.com               : Email sent successfully
+[2024-06-05 09:43:58 PM] [Sent] shahabassabbu12@outlook.com             : Email sent successfully
+[2024-06-05 09:44:04 PM] [Sent] sherinsulthana05@gmail.com              : Email sent successfully
+[2024-06-05 09:44:10 PM] [Sent] studenattsrinivas@gmail.com             : Email sent successfully
+[2024-06-05 09:44:16 PM] [Sent] sulu.ichu12@gmail.com                   : Email sent successfully
+[2024-06-05 09:44:21 PM] [Sent] thahirahameed313@gmail.com              : Email sent successfully
+[2024-06-05 09:44:27 PM] [Sent] ubbix.trade@gmail.com                   : Email sent successfully
+[2024-06-05 09:44:32 PM] [Sent] unimatter13@gmail.com                   : Email sent successfully
+[2024-06-05 09:44:38 PM] [Sent] unnikutten082@gmail.com                 : Email sent successfully
+[2024-06-05 09:44:44 PM] [Sent] unounhidden13@gmail.com                 : Email sent successfully
+[2024-06-05 09:44:49 PM] [Sent] vishnu.fetlla@gmail.com                 : Email sent successfully
+[2024-06-05 09:44:55 PM] [Sent] zodiachackersyt5@gmail.com              : Email sent successfully
+[2024-06-05 09:45:43 PM] [Invalid   ] Email                                   : Invalid email address format
+[2024-06-05 09:45:49 PM] [Sent      ] shahabassabbu12@gmail.com               : Email sent successfully
+
+
+- Join Our 10-Day SOC Training - Limited Time Offer!
+[2024-06-06 08:02:25 PM] [Sent] angsontheekan@gmail.com                 : Email sent successfully
+[2024-06-06 08:02:31 PM] [Sent] aravindkrishnan121@gmail.com            : Email sent successfully
+[2024-06-06 08:02:36 PM] [Sent] ashishthomasjoseph27@gmail.com          : Email sent successfully
+[2024-06-06 08:02:42 PM] [Sent] francisadvin4@gmail.com                 : Email sent successfully
+[2024-06-06 08:02:47 PM] [Sent] geoabhin@gmail.com                      : Email sent successfully
+[2024-06-06 08:02:53 PM] [Sent] ijaziddin@gmail.com                     : Email sent successfully
+[2024-06-06 08:02:59 PM] [Sent] kiranbabu989@gmail.com                  : Email sent successfully
+[2024-06-06 08:03:04 PM] [Sent] lekshmijan2000@gmail.com                : Email sent successfully
+[2024-06-06 08:03:10 PM] [Sent] midhunr402@gmail.com                    : Email sent successfully
+[2024-06-06 08:03:15 PM] [Sent] muhdharshad2000@gmail.com               : Email sent successfully
+[2024-06-06 08:03:23 PM] [Sent] naslaanees20@gmail.com                  : Email sent successfully
+[2024-06-06 08:03:29 PM] [Sent] rinjuck@gmail.com                       : Email sent successfully
+[2024-06-06 08:03:36 PM] [Sent] s20895139@gmail.com                     : Email sent successfully
+[2024-06-06 08:03:41 PM] [Sent] tplijo@gmail.com                        : Email sent successfully

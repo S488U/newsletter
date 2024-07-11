@@ -1,0 +1,47 @@
+Create code for a PHP based newsletter website:
+- it need to be have admin login system.
+- Need a page to send HTML email newsletter.
+- Need a option to save the Email of the users by uploading a file(It is a mongodb exported collection, in that fetch all Emails and their names and store in to MySQL). 
+- The newsletter need to be share every subscribers.
+- save the admin credentials in MYSQL.
+- For styling use Bootstrap.
+- for connection use connection.php
+- use PHPMAILER
+
+server setting:
+$mail->isSMTP();
+$mail->Host = 'mail.duploader.tech'; // Replace with your SMTP server address
+$mail->SMTPAuth = true;
+$mail->Username = 'manage@duploader.tech'; // Replace with your SMTP username
+$mail->Password = 'uploader@dup.tech_mail'; // Replace with your SMTP password
+$mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+$mail->Port = 465;
+
+
+<div style="background-color: #000000; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0;">
+<div style="width: 90%; max-width: 600px; margin: 0 auto; padding: 20px;">
+<div style="text-align: center; padding: 10px 0;"><img src="https://www.fetlla.com/logo.png" alt="Fetlla Logo" width="70" height="70"></div>
+<div style="padding: 20px; background-color: #1a1a1a; border-radius: 10px;">
+<h1 style="color: #ff4500;">Fetlla Free SOC Live Training</h1>
+  <p>Get ready to level up your cybersecurity skills!</p>
+  <p style="font-weight: bold;">The FREE Live Training for SOC Analysts starts in just 2 days on Wednesday, June 5th at 8:00 PM IST.</p>
+  <p>We're excited to have you join us for this informative session. During the training, you'll gain valuable insights into the world of Security Operations Centers (SOCs) and learn from experienced professionals.</p>
+  <p>Here's a quick recap of the details:</p>
+  <ul>
+    <li>Topic: SOC Training</li>
+    <li>Date: Wednesday, June 5th</li>
+    <li>Time: 8:00 PM IST</li>
+    <li>Format: Live Online Session</li>
+  </ul>
+    <p>
+    <a href="https://wa.me/+916238293581" style="display: inline-block; padding: 10px 20px; background-color: #25D366; color: white; border-radius: 5px; text-decoration: none;">Register via WhatsApp</a>
+  </p>
+  <p>Don't miss this opportunity to learn from the best and take your cybersecurity career to the next level! We look forward to seeing you there.</p>
+  <p>Fetlla Team</p>
+<br>
+<p><a style="background-color: #ff4500; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 5px;" href="https://fetlla.com">Visit Our Website</a></p>
+</div>
+<div style="text-align: center; padding: 10px 0; font-size: 14px; color: #888888;"><a style="color: #888888;" href="https://www.instagram.com/fetllaofficial/">Instagram</a> <a style="color: #888888;" href="https://www.youtube.com/@fetlla">YouTube</a> <a style="color: #888888;" href="https://www.linkedin.com/company/fetlla/">LinkedIn</a></div>
+<div style="text-align: center; padding: 10px 0; font-size: 14px; color: #888888;">© 2024 Fetlla. All rights reserved.</div>
+</div>
+</div>

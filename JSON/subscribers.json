@@ -1,0 +1,1302 @@
+[{
+  "_id": {
+    "$oid": "65a6049c9f88b1b0d27f9d89"
+  },
+  "name": "Test ",
+  "email": "test@gmail.com",
+  "password": "#tester",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:22:52.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:22:52.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a605c69f88b1b0d27f9d8e"
+  },
+  "name": "Tor0x7",
+  "email": "umarmuktharc.n951@gmail.com",
+  "password": "admin@123",
+  "attempts": {
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:27:50.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T05:22:57.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6067808e5fdaba33c3615"
+  },
+  "name": "Karthik Krishna",
+  "email": "karthikkrishnaks@gmail.com",
+  "password": "Loki@1998",
+  "attempts": {
+    "flag1": 4,
+    "flag3": 3,
+    "flag2": 1,
+    "flag4": 1,
+    "flag5": 1,
+    "flag6": 4
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true,
+    "flag3": true,
+    "flag4": true,
+    "flag5": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:30:48.388Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T16:28:05.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6069908e5fdaba33c361b"
+  },
+  "name": "Hrishidev",
+  "email": "hrishidevdarsan@gmail.com",
+  "password": "alpha101",
+  "attempts": {
+    "flag1": 3,
+    "flag2": 1,
+    "flag3": 1,
+    "flag4": 1,
+    "flag5": 1,
+    "flag6": 2
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true,
+    "flag3": true,
+    "flag4": true,
+    "flag5": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:31:21.758Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T16:30:25.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6074f9f88b1b0d27f9d9c"
+  },
+  "name": "Athul S",
+  "email": "athul63368@gmail.com",
+  "password": "123.com",
+  "attempts": {
+    "flag1": 2
+  },
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:34:23.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:25:23.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60759899abb135b11f124"
+  },
+  "name": "adolf hitler",
+  "email": "literallyadolf@proton.me",
+  "password": "Repulsion9-Engross6-Tripping8-Unison4",
+  "attempts": {
+    "flag1": 3,
+    "flag2": 4,
+    "flag3": 1,
+    "flag4": 1,
+    "flag5": 1,
+    "flag6": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:34:33.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T07:25:24.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a607a49f88b1b0d27f9da5"
+  },
+  "name": "mohammed Aslam",
+  "email": "aslam71114@gmail.com",
+  "password": "aslam313>",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:35:48.384Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:35:48.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a607cd9f88b1b0d27f9db3"
+  },
+  "name": "Muhammed Niyas",
+  "email": "naazsec@gmail.com",
+  "password": "Nase@2061",
+  "attempts": {
+    "flag1": 4,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:36:29.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T07:25:13.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608129f88b1b0d27f9dbb"
+  },
+  "name": "Syamkumar P Kurup",
+  "email": "brilluthdevil@gmail.com",
+  "password": "Lucifer.devil",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:37:38.755Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:37:38.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60819899abb135b11f13d"
+  },
+  "name": "sobin joseph",
+  "email": "sobincjoseph122@gmail.com",
+  "password": "joyalpottan@123",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:37:45.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:37:45.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6084108e5fdaba33c3634"
+  },
+  "name": "Sabah navavi .M",
+  "email": "sabahnavavi@gmail.com",
+  "password": "shahal123",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:38:25.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:38:25.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608996de099f15fa26b42"
+  },
+  "name": "eshan dennis",
+  "email": "eshanpv9@gmail.com",
+  "password": "Sheebajoseph39@",
+  "attempts": {
+    "flag1": 2,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:39:53.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T04:44:07.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608a56de099f15fa26b47"
+  },
+  "name": "Adithyan",
+  "email": "adithyanadhi0502@gmail.com",
+  "password": "Adhi@00000",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:40:05.951Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:40:05.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608c36de099f15fa26b4e"
+  },
+  "name": "nadeer",
+  "email": "nadeerthottoli@gmail.com",
+  "password": "nADEER@123",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:40:35.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T05:06:58.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608e06de099f15fa26b54"
+  },
+  "name": "sobin joseph",
+  "email": "sobincjoseph112@gmail.com",
+  "password": "joyalpottan@123",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:41:04.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T09:10:00.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608ec9f88b1b0d27f9dc5"
+  },
+  "name": "dhanesh",
+  "email": "dhaneshakon@gmail.com",
+  "password": "Spidermanlovemj",
+  "attempts": {
+    "flag1": 3,
+    "flag2": 1,
+    "flag3": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:41:16.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T14:32:41.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a608f59f88b1b0d27f9dc9"
+  },
+  "name": "Amal",
+  "email": "amal06429@gmail.com",
+  "password": "amal06429",
+  "attempts": {
+    "flag1": 4,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:41:25.834Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T08:50:17.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a609059f88b1b0d27f9dd1"
+  },
+  "name": "Mohammed Binshid",
+  "email": "jafod68082@trackden.com",
+  "password": "^Kqzg48p_Tx9]-!",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:41:41.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:41:41.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6090a9f88b1b0d27f9dd7"
+  },
+  "name": "cyuser",
+  "email": "rahulr2141@gmail.com",
+  "password": "cyuser64",
+  "attempts": {
+    "flag1": 7,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:41:46.353Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T05:04:45.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a609306de099f15fa26b59"
+  },
+  "name": "adn40",
+  "email": "cargoing40@gmail.com",
+  "password": "Abcd1234@",
+  "attempts": {
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:42:24.638Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T06:58:14.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60933714601a6a2f3c453"
+  },
+  "name": "Aadhil",
+  "email": "adhilmohdpattani000@gmail.com",
+  "password": "qwemnb",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:42:27.588Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:42:27.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60934577c0deff05851ca"
+  },
+  "name": "accu",
+  "email": "accuarshak868@gmail.com",
+  "password": "ayaanroshi7",
+  "attempts": {
+    "flag1": 5
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:42:28.492Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T13:53:21.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60936577c0deff05851ce"
+  },
+  "name": "abhinandk",
+  "email": "abhinandkrishnan3231@gmai.com",
+  "password": "Abhinand$$123",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:42:30.884Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:42:30.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6099aca3310598079446e"
+  },
+  "name": "Mohammed Binshid V",
+  "email": "binshideriyad@gmail.com",
+  "password": "Mus@8060",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1,
+    "flag3": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:44:10.500Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T16:31:30.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a609c7311512dac4e6d8de"
+  },
+  "name": "jack",
+  "email": "jack123@gmail.com",
+  "password": "J@ck",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 4
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:44:55.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T07:34:55.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60a16311512dac4e6d8eb"
+  },
+  "name": "Wall0P",
+  "email": "wallop@wallop.io",
+  "password": ":7%-nu_-8pbBY'G",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:46:14.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:46:14.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60a2a311512dac4e6d8f2"
+  },
+  "name": "Praveen",
+  "email": "praveenndd2112@gmail.com",
+  "password": "qwer123",
+  "attempts": {
+    "flag1": 2
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:46:34.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T04:50:58.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60a99311512dac4e6d8fb"
+  },
+  "name": "apollo",
+  "email": "drkstnite@proton.me",
+  "password": "1234IAmGood",
+  "attempts": {
+    "flag1": 2,
+    "flag2": 2
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:48:25.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:44:35.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60a9f311512dac4e6d8ff"
+  },
+  "name": "jibin",
+  "email": "errtrg@gmail.com",
+  "password": "12340987",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T04:48:31.826Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T04:48:31.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60ae49f88b1b0d27f9de4"
+  },
+  "name": "jibin",
+  "email": "qwer@gmail.com",
+  "password": "12340987",
+  "attempts": {
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:49:40.837Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T05:25:28.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60b4e9f88b1b0d27f9df7"
+  },
+  "name": "Noorul Islam",
+  "email": "noorulcspace@gmail.com",
+  "password": "hv74*&^Rtyuf5^&&YHfd",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:51:26.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T07:22:35.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60d45519ad4c4c50f629f"
+  },
+  "name": "Faizal",
+  "email": "faizalkh208@gmail.com",
+  "password": "Faizal@123#",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T04:59:49.491Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:37:22.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60d90577c0deff05851f7"
+  },
+  "name": "Ananthanath",
+  "email": "ananthanadhm@gmail.com",
+  "password": "crackthecode",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T05:01:04.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T05:01:04.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a60f12519ad4c4c50f62b8"
+  },
+  "name": "FEBIN ANTONY",
+  "email": "febinantony345@gmail.com",
+  "password": "Gallows@345",
+  "attempts": {
+    "flag1": 3,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T05:07:30.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T07:04:22.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a61203519ad4c4c50f62cc"
+  },
+  "name": "sanooh",
+  "email": "sanooh.ah@gmail.com",
+  "password": "SanoohLelren@9594",
+  "attempts": {
+    "flag2": 1,
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag2": true,
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T05:20:03.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:01:55.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a614b4519ad4c4c50f62e0"
+  },
+  "name": "ummer",
+  "email": "nehedi7707@trackden.com",
+  "password": "password",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T05:31:32.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T05:31:32.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a61c79d7c7692281792d99"
+  },
+  "name": "jewel",
+  "email": "jeweljose0@gmail.com",
+  "password": "nellivilayil@10",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T06:04:41.151Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:04:41.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a61ff4c6aefa7a698a0151"
+  },
+  "name": "salahudeen",
+  "email": "salahudeenibnnaser@gmail.com",
+  "password": "salah@123.com",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:19:32.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T07:36:26.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6207cd7c7692281792db3"
+  },
+  "name": "mileena.k",
+  "email": "mileenak31@gmail.com",
+  "password": "a1b2c3",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:21:48.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:41:15.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a62089d7c7692281792db7"
+  },
+  "name": "Ashitha",
+  "email": "ashithapp03@gmail.com",
+  "password": "sreeshiva0527",
+  "attempts": {
+    "flag1": 2,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:22:01.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:47:34.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6232d4aabc0629cbcfa1e"
+  },
+  "name": "Akshay r",
+  "email": "akshayr7994@gmail.com",
+  "password": "KL36J9051",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T06:33:17.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:33:17.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6265bc6aefa7a698a0188"
+  },
+  "name": "Fleo",
+  "email": "aswathisanthosh2000@gmail.com",
+  "password": "fleo@12",
+  "attempts": {
+    "flag1": 2
+  },
+  "solvedflag": {
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:46:51.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T12:36:47.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a627a8c6aefa7a698a0193"
+  },
+  "name": "Abdul Basith",
+  "email": "basithpachu2@gmail.com",
+  "password": "87654",
+  "attempts": {
+    "flag1": 2,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:52:24.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T12:13:32.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a628375ad9660e033b61c8"
+  },
+  "name": "Moammed Sahal",
+  "email": "mohammedsahalra@gmail.com",
+  "password": "iamnewatctf",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T06:54:47.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T08:47:37.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a628f34aabc0629cbcfa33"
+  },
+  "name": "akhil sabu",
+  "email": "akhilsabu839@gmail.com",
+  "password": "akhil513026",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T06:57:55.385Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:57:55.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6294e4aabc0629cbcfa3e"
+  },
+  "name": "Riyaz",
+  "email": "riyazhack5@gmail.com",
+  "password": "Ruyaz@555",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T06:59:26.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T06:59:26.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a629ad5ad9660e033b61da"
+  },
+  "name": "yadhu",
+  "email": "yadukrishnankp6@gmail.com",
+  "password": "123.com",
+  "attempts": {
+    "flag2": 1,
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag2": true,
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T07:01:01.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T11:27:18.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a62a1e5ad9660e033b61ea"
+  },
+  "name": "Riyazz",
+  "email": "stevxxe@gmail.com",
+  "password": "kali",
+  "attempts": {
+    "flag1": 4,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T07:02:54.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T10:59:04.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a62a8f5ad9660e033b61f3"
+  },
+  "name": "anandhu",
+  "email": "anandhubiju373@gmail.com",
+  "password": "123..com",
+  "attempts": {
+    "flag2": 4,
+    "flag1": 1
+  },
+  "solvedflag": {
+    "flag2": true,
+    "flag1": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T07:04:47.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T11:31:48.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a64ed31a8c2c75dee7cfc5"
+  },
+  "name": "Neo4J",
+  "email": "rahulsathyan462@gmail.com",
+  "password": "123.com",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1,
+    "flag3": 6,
+    "flag4": 1,
+    "flag5": 1,
+    "flag6": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true,
+    "flag4": true,
+    "flag5": true,
+    "flag3": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T09:39:31.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T13:17:20.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a64f201a8c2c75dee7cfcb"
+  },
+  "name": "Binary belle",
+  "email": "smrithilakshman@gmail.com",
+  "password": "binarybelle123",
+  "attempts": {
+    "flag1": 2,
+    "flag2": 1,
+    "flag4": 1,
+    "flag5": 1,
+    "flag3": 1,
+    "flag6": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true,
+    "flag4": true,
+    "flag5": true,
+    "flag3": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T09:40:48.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T09:25:52.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a65533dabeeda543eb32f1"
+  },
+  "name": "Ashima K",
+  "email": "ashimak2019@gmail.com",
+  "password": "123..com",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1,
+    "flag3": 1,
+    "flag4": 2,
+    "flag5": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true,
+    "flag3": true,
+    "flag4": true,
+    "flag5": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T10:06:43.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T08:03:15.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a66ad853f0015968c78bbf"
+  },
+  "name": "safz",
+  "email": "safz@jewelryrail.com",
+  "password": "safz@jewelryrail.com",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T11:39:04.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T11:39:04.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a66bc2a3d94e442a896e7c"
+  },
+  "name": "Muhammad Safwan N A",
+  "email": "safusamad66@gmail.com",
+  "password": "Safwan@123",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T11:42:58.299Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T11:42:58.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a68919f70e5059afd557d5"
+  },
+  "name": "cr0xmas",
+  "email": "kromas1994@gmail.com",
+  "password": "legionlenovo1@",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-16T13:48:09.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T13:48:09.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a6c125e958986246195aa8"
+  },
+  "name": "abhinandkrishnan",
+  "email": "abhinandkrishnan3231@gmail.com",
+  "password": "Abhinand$$123",
+  "attempts": {
+    "flag1": 5,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-16T17:47:17.031Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T05:16:00.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a721be4264c08e3dc8f6d2"
+  },
+  "name": "SE",
+  "email": "alanshadowhacker@gmail.com",
+  "password": "2eG6RSSC7xaC725u81QmOxO4oCg1",
+  "attempts": {},
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-17T00:39:26.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T00:39:26.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a75796fe94fb8377843b69"
+  },
+  "name": "MUHAMMED RUMAIS",
+  "email": "rumaismv@gmail.com",
+  "password": "Rumais@2000",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-17T04:29:10.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T06:20:16.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a777b75360312b8786124e"
+  },
+  "name": "Rocky bhai",
+  "email": "1rochybhai@gmail.com",
+  "password": "1234",
+  "attempts": {
+    "flag4": 2,
+    "flag5": 1,
+    "flag3": 1,
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag5": true,
+    "flag4": true,
+    "flag3": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-17T06:46:15.207Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T06:57:21.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a789fa5f2cd39d0966e906"
+  },
+  "name": "Anjal eldho paul ",
+  "email": "anjaleldhopaul01@gmail.com",
+  "password": "123.com",
+  "attempts": {
+    "flag1": 1,
+    "flag2": 1
+  },
+  "solvedflag": {
+    "flag1": true,
+    "flag2": true
+  },
+  "createdAt": {
+    "$date": "2024-01-17T08:04:10.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T08:45:53.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a7fe08389127b0deb741a3"
+  },
+  "name": "aswin",
+  "email": "mynameisaswin321@gmail.com",
+  "password": "1234",
+  "attempts": {
+    "flag1": 1
+  },
+  "solvedflag": {},
+  "createdAt": {
+    "$date": "2024-01-17T16:19:20.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-17T16:19:41.049Z"
+  },
+  "__v": 0
+}]
