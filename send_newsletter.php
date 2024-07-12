@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   try {
     // SMTP Configuration
     $mail->isSMTP();
-    $mail->Host = 'smtpout.secureserver.net';
+    $mail->Host = '';
     $mail->SMTPAuth = true;
     $mail->Username = 'example@mail.com';
     $mail->Password = '**********';
