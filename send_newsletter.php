@@ -29,13 +29,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail->isSMTP();
     $mail->Host = 'smtpout.secureserver.net';
     $mail->SMTPAuth = true;
-    $mail->Username = 'info@fetlla.com';
-    $mail->Password = 'Fet!@2024$Secure&Dev';
+    $mail->Username = 'example@mail.com';
+    $mail->Password = '**********';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
     $mail->Port = 465;
 
     // Sender information
-    $mail->setFrom('info@fetlla.com', 'Fetlla');
+    $mail->setFrom('example@mail.com', 'sender_name');
     $mail->isHTML(true);
     $mail->Subject = $subject;
     $mail->Body = $htmlBody;
